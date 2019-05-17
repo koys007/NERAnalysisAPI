@@ -1,4 +1,4 @@
-NERAnalysisAPI
+NER Analysis OpenAPI 활용 방법
 =============
 ETRI 언어 분석 기술 OpenAPI를 활용한 한글 텍스트의 NER 분석
 
